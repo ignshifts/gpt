@@ -1,0 +1,7 @@
+{
+  "key_binding.category.veilglyph.veilglyph": "VeilGlyph",
+  "key.veilglyph.toggle_mod": "Toggle Mod (stops lag)",
+  "key.veilglyph.toggle": "Toggle Tracers",
+  "key.veilglyph.screen": "Open Block List",
+  "key.veilglyph.nimbus": "Open Nimbus (extras)"
+}

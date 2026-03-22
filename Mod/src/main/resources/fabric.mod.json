@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "veilglyph",
+  "version": "${version}",
+  "name": "VeilGlyph",
+  "description": "Client utilities: block tracers, list, and optional extras.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.veilglyph.VeilglyphMod"]
+  },
+  "mixins": ["veilglyph.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.10",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
