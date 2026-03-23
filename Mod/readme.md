@@ -7,7 +7,7 @@ This mod only works for 1.21.10, it works fine on Lunar Client despite it not ap
 
 You can download the already built mod in [releases](https://github.com/ignshifts/gpt/releases/tag/Minecraft)
 
-If you want to build, you will need to install [Gradle](https://gradle.org/) along with Java JDK 21. After that you can use run the command to build: `./gradlew build`
+If you want to build, you will need to install [Gradle](https://gradle.org/) along with Java JDK 21. After that you can run the command to build: `./gradlew build`
 
 # The mod name
 The mod is named this so it's not clear what it entails, there are a few exploits servers are abusing like checking the name of your mod and flagging it. [The list of exploits are listed here.](https://github.com/NikOverflow/ExploitPreventer?tab=readme-ov-file#exploits)
