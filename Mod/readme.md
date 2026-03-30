@@ -9,12 +9,17 @@ You can download the already built mod in [releases](https://github.com/ignshift
 
 If you want to build, you will need to install [Gradle](https://gradle.org/) along with Java JDK 21. After that you can run the command to build: `./gradlew build`
 
+You will also need to install [Fabric](https://modrinth.com/mod/fabric-api) & the [Fabric API](https://modrinth.com/mod/fabric-api). 
+
 # The mod name
 The mod is named this so it's not clear what it entails, there are a few exploits servers are abusing like checking the name of your mod and flagging it. [The list of exploits are listed here.](https://github.com/NikOverflow/ExploitPreventer?tab=readme-ov-file#exploits)
 It's highly advised that you use the [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) mod or something similar to prevent server's from abusing these exploits, if you don't that's fine. This mod should *not* be flagged but that can well change in the future.
 
 # Updates
 This entire project is vibe coded and I do not plan on making updates since I did not make this.
+
+# Lag
+Some blocks will cause your PC to freeze for a tick while the Mod scans for entities / blocks. 
 
 
 # List of entities / blocks tracked:
@@ -41,9 +46,9 @@ This entire project is vibe coded and I do not plan on making updates since I di
 - Iron Ore
 - Deepslate Iron Ore
 - Diamond Ore
-- Deepslate Diamond ORe
+- Deepslate Diamond Ore
 - Gold Ore
-- Deepsalte Gold Ore
+- Deepslate Gold Ore
 - Redstone Ore
 - Deepslate Redstone Ore
 - Shulker Box (white, orange, magenta, light blue, yellow, lime, pink, gray, light gray, cyan, purple, blue, brown, green, red, black)
