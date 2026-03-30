@@ -12,7 +12,7 @@ If you want to build, you will need to install [Gradle](https://gradle.org/) alo
 You will also need to install [Fabric](https://modrinth.com/mod/fabric-api) & the [Fabric API](https://modrinth.com/mod/fabric-api). 
 
 # The mod name
-The mod is named this so it's not clear what it entails, there are a few exploits servers are abusing like checking the name of your mod and flagging it. [The list of exploits are listed here.](https://github.com/NikOverflow/ExploitPreventer?tab=readme-ov-file#exploits)
+The mod is named this so it's not clear what it entails, there are a few exploits servers are abusing like ~~checking the name of your mod and flagging it~~ using sign translations. [The list of exploits are listed here.](https://github.com/NikOverflow/ExploitPreventer?tab=readme-ov-file#exploits)
 It's highly advised that you use the [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) mod or something similar to prevent server's from abusing these exploits, if you don't that's fine. This mod should *not* be flagged but that can well change in the future.
 
 # Updates
